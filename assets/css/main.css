@@ -1101,6 +1101,7 @@ input, select, textarea {
 	input[type="reset"],
 	input[type="button"],
 	button {
+		
 		line-height: calc(2.75rem - 2px);
 	}
 
@@ -1633,6 +1634,9 @@ input, select, textarea {
 	padding-top: 0;
 
 }	
+.padding-top{
+	margin-top: 40px;
+}
 /* Footer */
 
 	#footer {
