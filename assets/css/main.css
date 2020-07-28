@@ -1628,10 +1628,9 @@ input, select, textarea {
 	margin-right: auto;
 	display: flex;
 	justify-content:center;
+	padding: 20px;
 
-	max-width: 400px;
-
-}
+}	
 /* Footer */
 
 	#footer {
