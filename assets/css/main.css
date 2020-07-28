@@ -1628,7 +1628,9 @@ input, select, textarea {
 	margin-right: auto;
 	display: flex;
 	justify-content:center;
+
 	padding: 20px;
+	padding-top: 0;
 
 }	
 /* Footer */
